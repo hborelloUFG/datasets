@@ -1,0 +1,23 @@
+[
+      {
+        "name": "edgedc",
+        "type": "cloud"
+      },
+      {
+        "name": "edgedc2",
+        "type": "cloud"
+      },
+      {
+        "name": "netcloud",
+        "type": "cloud"
+      },
+      {
+        "name": "internet",
+        "type": "cloud"
+      },
+      {
+        "name": "net",
+        "type": "network"
+      }
+    
+    ]
